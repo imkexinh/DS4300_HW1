@@ -7,7 +7,7 @@ import csv
 from dbutils import DBUtils
 
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "hkx20041021hkx"
+MYSQL_PASSWORD = "your own password"
 MYSQL_DATABASE = "twitter_db"
 CSV_FILE = "follows_sample.csv"
 
