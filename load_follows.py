@@ -7,7 +7,7 @@ import csv
 from dbutils import DBUtils
 
 MYSQL_USER = "root"
-MYSQL_PASSWORD = os.environ.get("MYSQL_PASSWORD", "")
+MYSQL_PASSWORD = "hkx20041021hkx"
 MYSQL_DATABASE = "twitter_db"
 CSV_FILE = "follows_sample.csv"
 
