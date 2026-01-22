@@ -9,7 +9,7 @@ from twitter_objects import Tweet
 def test_api():
     """test all API methods"""
     MYSQL_USER = "root"
-    MYSQL_PASSWORD = os.environ.get("MYSQL_PASSWORD", "")
+    MYSQL_PASSWORD = "your own password"
     MYSQL_DATABASE = "twitter_db"
 
     # initialize API
